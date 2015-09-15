@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#B4AFAF;
+}
+
+#container{ 
+	z-index:1;
+	width:960px;
+	height:1000px;
+	background-color: #FFFFFF;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#logotipo{
+	z-index:2;
+	width:220px;
+	height:160px;
+	float:left;
+}
+
+#menu{
+	z-index:2;
+	width:740px;
+	height:169px;
+	float:right;
+}
+
+#imagem{
+	z-index:2;
+	width:960px;
+	height:265px;
+	clear:both;
+}
+
+#principal{
+	z-index:2;
+	width:625px;
+	height:465px;
+	float:left;
+}
+
+#noticias{
+	z-index:2;
+	width:335px;
+	height:465px;
+	float:right;
+}
+
+#rodape{
+	z-index:2;
+	width:960px;
+	height:110px;
+	clear:both;
+}
+	
+	
+	
+	
